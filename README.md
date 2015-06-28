@@ -79,3 +79,8 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+Survey Questions:
+
+1. What parts of the workshop today were awesome for my learning?  Answer: The detailed explanation of unix commands and file structures - also - all of the git and github work was excellent. This was new material for me.  
+2. What parts of today's workshop could be improved for next time?  Answer: The explanation of GitHub forking and push/pull was a little bit vague... I think because there were no slides to follow (it was just drawn on the whiteboard and explained verbally), it was harder to follow.  However - the confusion this caused allowed me to work through any confusion with my partner in the group project!  We discussed and solved our confusion together.  
+3. On a scale of 1-10, how likely are you to recommend today's workshop to a friend? Answer: 10. This is a great introduction to these concepts for anyone.
